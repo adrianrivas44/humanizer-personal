@@ -81,4 +81,4 @@ The procedure is provider-neutral, not universally certified: performance, suppo
 
 Created by Zero (@adrianrivas44), with AI assistance for drafting, translation and review. This repository publishes an interview-and-calibration workflow, not a copy of another project's pattern catalog or writing samples.
 
-No license has been selected for this release. Publication alone does not grant an open-source reuse license. Licensing is a separate author decision.
+Released under the MIT License. See [LICENSE](LICENSE).

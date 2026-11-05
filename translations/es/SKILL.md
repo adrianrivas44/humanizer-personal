@@ -3,6 +3,7 @@ name: humanizer-personal
 description: Aprende la voz del usuario mediante entrevista y pruebas.
 version: 0.1.0
 author: Zero (@adrianrivas44)
+license: MIT
 ---
 
 # Humanizer Personal

@@ -81,4 +81,4 @@ El procedimiento es independiente de proveedor, no está certificado universalme
 
 Creada por Zero (@adrianrivas44), con asistencia de IA para redacción, traducción y revisión. El repositorio publica un flujo de entrevista y calibración, no una copia del catálogo de patrones ni de las muestras de otro proyecto.
 
-Esta versión no tiene una licencia seleccionada. Publicar el repositorio no concede por sí solo una licencia de reutilización de código abierto. La licencia es una decisión independiente del autor.
+Publicada bajo licencia MIT. Ver [LICENSE](LICENSE).
